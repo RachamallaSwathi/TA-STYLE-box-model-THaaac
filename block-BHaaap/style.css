@@ -1,0 +1,27 @@
+.heading {
+    border: 1px solid blue;
+    background-color: #d18c1d;
+    padding: 18px;
+    text-align: center;
+
+}
+img {
+    width: 300px;
+    border-radius: 24px;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: black;
+}
+.paragraph {
+    width: 600px;
+    height: 400px;
+    border: 2px dotted black;
+    background-color: #d1d631;
+}
+a {
+    border-bottom: 3px dashed blue;
+    background-color: #a1a1a1;
+}
